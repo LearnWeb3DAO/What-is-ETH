@@ -8,10 +8,7 @@
     - [What are Smart Contracts](#What-are-Smart-Contracts)
     - [What are ERC20 Tokens](#What-are-ERC20-Tokens)
   - [Required Readings](#Required-Readings)
-- [2. Practice](#2.-Practice)
-  - [Using Metamask](#Using-Metamask)
-- [3. Testing](#3.-Testing)
-  - [Share Address](#Share-Your-Ethereum-Address)
+
 
 ## 1. Theory
 ### What is Ethereum
@@ -41,18 +38,4 @@ Never give out your private keys or seed phrase. If anyone ever asks for them, r
   - https://blockgeeks.com/guides/smart-contracts/
   - https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
 
-## 2. Practice
 
-### Using Metamask
-- Go to [MetaMask](https://metamask.io)
-
-- Follow the instructions and install the Metamask browser extension.
-
-- Once you get your new seed phrase, (a 12 word phrase), write it down somewhere safe. This is your wallet backup.
-
-## 3. Testing
-
-For this pilot phase of BDU L-EARN, you'll have one of our collaborators test your knowledge on a 1-on-1 conversation, using [BrightID](https://www.brightid.org/) to verify your identity. Get in touch with them via this repo or on the Telegram group on our website.
-
-### Share your Ethereum address
-Once Metamask is installed, copy your address and send it to one of the owners of this repo. Reward: 5 xDai.
