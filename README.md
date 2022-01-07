@@ -46,11 +46,11 @@ These are what are also called NFTs. These two standards, similar to ERC20, prov
 and many more...
 
 ### Required Readings
-  - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
+  - [https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/)
   
 ### Recommended Readings
-- https://ethereum.org/en/whitepaper/
-- https://cointelegraph.com/explained/erc-20-tokens-explained
-- https://www.youtube.com/watch?v=ZE2HxTmxfrI
-- https://blockgeeks.com/guides/smart-contracts/
-- https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/
+- [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
+- [https://cointelegraph.com/explained/erc-20-tokens-explained](https://cointelegraph.com/explained/erc-20-tokens-explained)
+- [https://www.youtube.com/watch?v=ZE2HxTmxfrI](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+- [https://blockgeeks.com/guides/smart-contracts/](https://blockgeeks.com/guides/smart-contracts/)
+- [https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)
