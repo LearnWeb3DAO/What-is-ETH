@@ -1,4 +1,4 @@
-# What is ETH
+# Level 3 - What is ETH
 
 ## Learning Outcomes
 - [1. Theory](#1.-Theory)
