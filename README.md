@@ -1,18 +1,5 @@
 # Level 3 - What is ETH
 
-## Learning Outcomes
-- [1. Theory](#1.-Theory)
-  - [What is Ethereum](#What-is-Ethereum)
-  - [Ethereum Basics](#Ethereum-Basics)
-    - [History of Ethereum](#History)
-    - [What is Ether](#What-is-Ether)
-    - [What are Smart Contracts](#What-are-Smart-Contracts)
-    - [ERC20 Tokens](#ERC20-Tokens)
-    - [ERC721 and ERC1155 Tokens](#ERC721-and-ERC1155-Tokens)
-  - [Required Readings](#Required-Readings)
-  - [Recommended Readings](#Recommended-Readings)
-
-
 ## 1. Theory
 ### What is Ethereum
 Ethereum is a decentralized blockchain that supports smart contracts. Unlike Bitcoin, which only supports the transfer of the Bitcoin token around the network, Ethereum is more general purpose. 
